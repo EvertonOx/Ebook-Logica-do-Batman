@@ -7,3 +7,4 @@ Meu ebook criado com IA e ajuda da equipe da DIO
 **>Deixe o texto enxuto**
 **>Sempre traga exemplos de código e resoluções em contextos reais**
 **>sempre deixe um titulo sugestivo por tópico e divida por capítulos**
+https://github.com/EvertonOx/Ebook-Logica-do-Batman
